@@ -1,7 +1,7 @@
 # Notes
 
 # Steps
-- Download and install anaconda using this link
+- Download and install anaconda 
 - Create a conda env using 
 ```commandline
 conda create -n haystack_search
@@ -24,5 +24,5 @@ pip install numba
 - Start the docker daemon
 - Run tutorials
 ```commandline
-python haystack/tutorials/Tutorial1_Basic_QA_Pipeline.py
+python turorial.py 
 ```
